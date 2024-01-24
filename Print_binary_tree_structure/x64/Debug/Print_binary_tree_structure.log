@@ -1,0 +1,5 @@
+﻿  Print_binary_tree_structure.cpp
+E:\Project\Visual Studio 2022\Print_binary_tree_structure\Print_binary_tree_structure.cpp(20,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\Visual Studio 2022\Print_binary_tree_structure\Print_binary_tree_structure.cpp(64): warning C4715: “Inorder_traversal_first_right”: 不是所有的控件路径都返回值
+E:\Project\Visual Studio 2022\Print_binary_tree_structure\Print_binary_tree_structure.cpp(44): warning C4715: “Create_binary_tree”: 不是所有的控件路径都返回值
+  Print_binary_tree_structure.vcxproj -> E:\Project\Visual Studio 2022\Print_binary_tree_structure\x64\Debug\Print_binary_tree_structure.exe

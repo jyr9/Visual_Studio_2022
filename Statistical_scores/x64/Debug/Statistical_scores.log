@@ -1,0 +1,3 @@
+﻿  Statistical_scores.cpp
+E:\Project\Visual Studio 2022\Statistical_scores\Statistical_scores.cpp(14,2): warning C4091: “typedef ”: 没有声明变量时忽略“Struct_student”的左侧
+  Statistical_scores.vcxproj -> E:\Project\Visual Studio 2022\Statistical_scores\x64\Debug\Statistical_scores.exe

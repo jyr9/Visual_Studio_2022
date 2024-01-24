@@ -1,0 +1,3 @@
+﻿  City_linked_list_to_linear_list.cpp
+E:\Project\Visual Studio 2022\City_linked_list_to_linear_list\City_linked_list_to_linear_list.cpp(174,31): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  City_linked_list_to_linear_list.vcxproj -> E:\Project\Visual Studio 2022\City_linked_list_to_linear_list\x64\Debug\City_linked_list_to_linear_list.exe

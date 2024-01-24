@@ -1,0 +1,3 @@
+﻿  Undirected_graph_traversal.cpp
+E:\Project\Visual Studio 2022\Undirected_graph_traversal\Undirected_graph_traversal.cpp(78,69): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Undirected_graph_traversal.vcxproj -> E:\Project\Visual Studio 2022\Undirected_graph_traversal\x64\Debug\Undirected_graph_traversal.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Project\Visual Studio 2022\Traversal_binary_tree_with_non_recursion\源.cpp(22,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\Visual Studio 2022\Traversal_binary_tree_with_non_recursion\源.cpp(50): warning C4715: “Create_binary_tree”: 不是所有的控件路径都返回值
+  Traversal_binary_tree_with_non_recursion.vcxproj -> E:\Project\Visual Studio 2022\Traversal_binary_tree_with_non_recursion\x64\Debug\Traversal_binary_tree_with_non_recursion.exe

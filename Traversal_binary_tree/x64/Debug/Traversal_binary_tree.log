@@ -1,0 +1,7 @@
+﻿  Traversal_binary_tree.cpp
+E:\Project\Visual Studio 2022\Traversal_binary_tree\Traversal_binary_tree.cpp(21,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\Visual Studio 2022\Traversal_binary_tree\Traversal_binary_tree.cpp(73): warning C4715: “Inorder_traversal”: 不是所有的控件路径都返回值
+E:\Project\Visual Studio 2022\Traversal_binary_tree\Traversal_binary_tree.cpp(85): warning C4715: “Postorder_traversal”: 不是所有的控件路径都返回值
+E:\Project\Visual Studio 2022\Traversal_binary_tree\Traversal_binary_tree.cpp(61): warning C4715: “Preorder_traversal”: 不是所有的控件路径都返回值
+E:\Project\Visual Studio 2022\Traversal_binary_tree\Traversal_binary_tree.cpp(49): warning C4715: “Create_binary_tree”: 不是所有的控件路径都返回值
+  Traversal_binary_tree.vcxproj -> E:\Project\Visual Studio 2022\Traversal_binary_tree\x64\Debug\Traversal_binary_tree.exe
